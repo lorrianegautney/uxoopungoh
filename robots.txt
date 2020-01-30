@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quavexewei.praxis-network.org/sitemap.xml
